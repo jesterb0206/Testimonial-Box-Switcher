@@ -15,11 +15,11 @@
 
 <br>
 
-![Testimonial Box Switcher]()
+![Testimonial Box Switcher](images/testimonial-box-switcher.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Testimonial-Box-Switcher/)
 
 <br>
 
